@@ -1,0 +1,12 @@
+I have completed the updates required to allow FusionCharts v 2.4 and above to operate with your plugin. As of v2.4 .swf
+files are no longer utilised as the library was changed to a javascript one.
+
+I could not complete the 'other graphs' as they are not used within my application. I have only implemented what comes
+with the free & XT Charts (licensed) versions as the Gantt files belong to the XT Widgets which I don't have.
+
+I have Git & do not wish to contaminate the existing version as the new version is not backwards compatable.
+
+Could you reply when a suitable branch/fork is available for me to push to.
+
+Thanks for an interesting plugin,
+David Taylor.
